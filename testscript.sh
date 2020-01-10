@@ -2,5 +2,5 @@
 echo "this script is from github"
 NUMBER=$(($NUMBERONE + $NUMBERTWO))
 echo "$NUMBER"
-echo "This is jenkins webhook test"
+echo "This is jenkins webhook t2st"
 echo "this was run automagically"
